@@ -1,12 +1,17 @@
 table{
+	background-color:white;
 	width:770px;
-	border: 1px solid black;
+	border: 1px solid grey;
 	margin:auto;/* Выравниваем таблицу по центру окна  */
 }
 td{
 	text-align:center;
-
-#buy{
-	color:green;
-	font-size:25px;
+}
+.buy{
+	text-align:center;
+	color:black;
+	font-size:30px;
+}
+img{
+	border:2px solid white;
 }
