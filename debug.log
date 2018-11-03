@@ -1,0 +1,9 @@
+[1102/180911.294:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Отказано в доступе. (0x5)
+[1102/180911.348:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[1102/180911.464:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1102/181805.815:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Отказано в доступе. (0x5)
+[1102/181805.917:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[1102/181805.948:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1102/181856.993:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Отказано в доступе. (0x5)
+[1102/181857.053:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[1102/181857.079:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled

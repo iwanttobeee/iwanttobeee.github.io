@@ -1,0 +1,12 @@
+table{
+	width:770px;
+	border: 1px solid black;
+	margin:auto;/* Выравниваем таблицу по центру окна  */
+}
+td{
+	text-align:center;
+
+#buy{
+	color:green;
+	font-size:25px;
+}
